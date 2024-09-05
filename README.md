@@ -7,14 +7,14 @@ I'm a Backend Developer graduated in Computer Science. I'm working on some side 
 
 <img align="right" src="https://i.imgur.com/vj4qgex.png" width="500"/>
 
-## ⚡️ A Few Quick Facts
+<h2 style="overflow: hidden;">⚡️ A Few Quick Facts</h2>
 
 - 🌃 I’m currently working at [Vivlio].
 - 🧐 Always learning about and software development and best practices.
 - 💻 I’m developing tools and apps in PHP and JavaScript.
 - 💡 Looking for new challenging projects.
 
-<h2>🚀 Some Tools I Use</h2>
+<h2 style="overflow: hidden;">🚀 Some Tools I Use</h2 >
 
 <p align="left">
 
