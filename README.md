@@ -31,7 +31,7 @@ I'm a Backend Developer graduated in Computer Science. I'm working on some side 
   </p>
 </td>
 <td>
-<img align="right" src="https://i.imgur.com/vj4qgex.png" width="900"/>
+<img src="https://i.imgur.com/vj4qgex.png"/>
 </td>
 </tr>
 </table>
