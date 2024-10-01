@@ -13,11 +13,12 @@ I'm a Backend Developer graduated in Computer Science. I'm working on some side 
       
 - 🌃 I’m currently working at [Vivlio].
 - 🧐 Always learning about and software development and best practices.
-- 💻 I’m developing tools and apps in PHP and JavaScript.
+- 💻 I’m developing tools and apps in PHP, JS, Python and others.
 - 💡 Looking for new challenging projects.
 <h2>🚀 Some Tools I Use</h2 >
   <p>
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=green" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Symfony" src="https://img.shields.io/badge/-Symfony-000000?style=flat-square&logo=symfony&logoColor=white" />
