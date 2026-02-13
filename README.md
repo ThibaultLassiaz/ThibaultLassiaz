@@ -38,7 +38,7 @@ I'm a Backend Developer graduated in Computer Science. I'm working on some side 
 </table>
 
 
-![ThibaultLassiaz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thibaultlassiaz&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thibaultlassiaz&hide=java,javascript,html,css&langs_count=4&hide_border=true&layout=compact&theme=radical)
+![ThibaultLassiaz's GitHub Stats](https://github-stats-extended.vercel.app/api?username=ThibaultLassiaz&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=radical)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=thibaultlassiaz&hide=java,javascript,html,css&langs_count=4&hide_border=true&layout=compact&theme=radical)
 
 [Vivlio]: https://www.vivlio.com/
